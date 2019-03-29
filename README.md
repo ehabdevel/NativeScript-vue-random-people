@@ -2,7 +2,7 @@
 
 > A native application built with NativeScript-Vue
 
-![image](https://github.com/ehabdevel/NativeScript-vue-random-people/Screenshot_2019-03-29-22-21-27.png)
+![image](https://github.com/ehabdevel/NativeScript-vue-random-people/blob/master/Screenshot_2019-03-29-22-21-27.png)
 
 ## Usage
 
